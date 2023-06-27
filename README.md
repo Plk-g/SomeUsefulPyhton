@@ -1,2 +1,2 @@
 # SomeUsefulPyhton
-This repositry contains contains a bunch of cool libraries and their implementation, that you can apply to your code as well!
+This repository contains many excellent libraries and their implementation, which you can also apply to your code!
